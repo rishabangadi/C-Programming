@@ -1,0 +1,15 @@
+Write functions to compute sum, difference, product & division of two complex variables of the below structure.
+
+typedef struct complex_t {
+
+float real;
+
+float imaginary;
+
+} complex_t;
+
+Guidelines:
+
+    Do not use scanf functions. Assume test values for arguments to functions.
+    Implement different functions for each operation instead of writing everything under main function.
+    Create a header file and source code file.
